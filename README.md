@@ -1,5 +1,7 @@
 ## Installing packages and dependencies:
 
+Make sure you have node installed on your system.
+
 ```
 cd backend
 npm i
